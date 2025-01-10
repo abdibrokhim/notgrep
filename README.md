@@ -120,6 +120,8 @@ Join community on [Discord](https://discord.gg/nUdcd9p8Ae)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=abdibrokhim/notgrep&type=Date)](https://star-history.com/#abdibrokhim/notgrep&Date)
 
+Put a star or ~~die~~! ✨
+
 ## Credits
 
 Logo made (~~shitcopied~~) by Ibrohim Abdivokhidov (@abdibrokhim) under the OC-IA 1.0 license. Follow him on [LinkedIn](https://www.linkedin.com/in/abdibrokhim/) and/ or [X (twitter)](https://twitter.com/abdibrokhim)
