@@ -28,7 +28,7 @@
 
 ![grep](assets/grep.png)
 
-` grep ` couldn't find my code, so I made ` !grep `.
+` grep ` couldn't find my code, so I just made ` !grep `.
 
 ![not grep](assets/notgrep-v1.png)
 
