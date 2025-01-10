@@ -1,0 +1,106 @@
+OC-IA License (Version 1.0)
+Effective Date: 11 January, 2024
+
+1. Purpose and Overview
+The OC-IA License is designed to promote the open and collaborative development of software, documentation, and related materials (collectively, the “Work”) while providing clear rights, responsibilities, and limitations for all Contributors and Users. This License aims to encourage broad collaboration, protect Contributors’ original work, and ensure transparency and innovation in distributed projects.
+
+2. Definitions
+“Work”
+Refers to any original work of authorship or derivative work covered by this License, including but not limited to software source code, scripts, documentation, artwork, and other creative outputs.
+
+“Contributor”
+Any individual or legal entity that authors or contributes to the Work. A Contributor may include, but is not limited to, original authors, maintainers, and those who submit modifications or additions to the Work.
+
+“Contribution”
+Any change, addition, or improvement to the Work that is intentionally submitted by a Contributor for inclusion in the Work. This includes, but is not limited to, source code, documentation, and supporting resources.
+
+“User”
+Any individual or legal entity that obtains a copy of the Work, either in whole or in part, through any means (such as download, clone, or direct receipt).
+
+“License”
+This document, the OC-IA License (Version 1.0).
+
+“License Notice”
+The statement within the Work (for example, a file header or readme) that clearly indicates the Work is distributed under the OC-IA License (Version 1.0).
+
+3. License Grant
+Subject to the terms of this License, each Contributor hereby grants every User a worldwide, royalty-free, non-exclusive, perpetual (unless terminated under Section 9) license to:
+
+Use
+Use the Work for any lawful purpose, including running, displaying, or otherwise interacting with the Work.
+
+Modify
+Make modifications, adaptations, or improvements to the Work.
+
+Distribute
+Copy and distribute the Work, with or without modifications, in any medium or format.
+
+Sublicense
+Sub-license any or all of the rights granted in this License to third parties, provided the third parties also agree to abide by this License in its entirety.
+
+4. Conditions
+Preservation of Notices
+You must include a copy of this License (or the full License text) and the License Notice in any copy or substantial portion of the Work that you distribute.
+
+Documentation of Changes
+You must clearly indicate all modifications made to the Work. Such indications should be documented in a changelog, commit message, or equivalent written record.
+
+No Removal of Attribution
+You must retain all Contributors’ identifiers (e.g., names, pseudonyms, or handles) and any copyright notices associated with the Work.
+
+Compliance with Laws
+You must comply with all applicable laws and regulations in your jurisdiction while exercising the rights granted under this License.
+
+5. Contributions
+Contributor’s Certification
+By submitting a Contribution, you certify that you have the right to license that Contribution under this License and that you have complied with any relevant third-party obligations.
+
+Merging Contributions
+If you are an upstream maintainer or project owner, you agree to only merge or incorporate Contributions that are compatible with the terms of this License. Any additional rules or contribution guidelines must be clearly stated and should not conflict with this License.
+
+Additional Contributor Terms
+Projects distributing the Work may establish Contributor License Agreements (CLAs), Codes of Conduct, or other additional documents as long as these do not contradict the terms of the OC-IA License.
+
+6. Patent Rights
+Patent Grant
+Subject to the terms of this License, each Contributor grants to you a non-exclusive, worldwide, royalty-free license, under the Contributor’s licensed patent claims, to make, use, sell, offer for sale, import, or otherwise transfer the Work.
+
+Termination of Patent Rights
+If you or your agents initiate a lawsuit or other legal action against any Contributor or User alleging that the Work infringes a patent, any patent licenses granted to you under this License for that Work shall terminate as of the date such lawsuit or legal action is filed.
+
+7. Trademarks
+This License does not grant you any rights to use the names, logos, or trademarks of any Contributor or the original project, except as necessary to accurately reference the Work. Any additional trademark usage rights must be agreed upon in writing by the respective trademark holder.
+
+8. Disclaimer of Warranty
+THE WORK IS PROVIDED “AS IS,” WITHOUT WARRANTY OR CONDITION OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR TITLE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE WORK IS WITH YOU. SHOULD THE WORK PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR, OR CORRECTION.
+
+9. Limitation of Liability
+IN NO EVENT SHALL ANY CONTRIBUTOR, COPYRIGHT HOLDER, OR LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE), ARISING IN ANY WAY OUT OF THE USE OR INABILITY TO USE THE WORK, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+10. Termination
+Automatic Termination
+Your rights under this License automatically terminate if you fail to comply with any material term or condition of this License.
+
+Post-Termination Obligations
+If your License is terminated, you must cease all distribution and use of the Work as of the termination date. However, any sublicenses granted prior to the termination will remain valid, provided those sublicensees remain in compliance with the terms of this License.
+
+Reinstatement
+If you remedy your violation of this License within 30 days of being notified of such violation, your License will be reinstated, unless your License was previously terminated for violating this License more than once.
+
+11. General
+Entire Agreement
+This License constitutes the entire agreement between Contributors and Users regarding the Work and supersedes any prior agreements, understandings, or arrangements related to the subject matter hereof.
+
+Severability
+If any provision of this License is found to be unenforceable, invalid, or illegal by a court of competent jurisdiction, the remaining provisions shall remain in full force and effect.
+
+No Waiver
+The failure of any Contributor to enforce any right under this License shall not be deemed a waiver of any future enforcement of that right or any other rights under this License.
+
+Governing Law
+This License shall be governed by and construed in accordance with the laws of the jurisdiction in which the original Contributor resides or is registered, unless otherwise specified by the project’s maintainers. Any legal action or proceeding arising under this License shall be brought exclusively in that jurisdiction.
+
+Assignment
+You may not assign or transfer this License or any of your rights or obligations under it without the prior written consent of the respective Contributor(s). Any purported assignment or transfer in violation of this section is void.
+
+By copying, distributing, or using the Work, you acknowledge that you have read and understood this License and agree to be bound by its terms and conditions.

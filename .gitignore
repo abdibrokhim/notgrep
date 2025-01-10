@@ -1,0 +1,7 @@
+/target
+test_result.json
+thoughts.txt
+instructions.txt
+.DS_Store
+.env
+Cargo.lock
