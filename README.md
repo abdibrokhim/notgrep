@@ -30,7 +30,7 @@
 
 ` grep ` couldn't find my code, so I just made ` !grep `.
 
-![not grep](assets/notgrep-v1.png)
+![not grep](assets/notgrep-v2.png)
 
 ` !grep ` is a search engine for code. It's a tool that allows you to search for code snippets in my repositories on GitHub. It's like ` grep `, but not ` grep `. lol
 
